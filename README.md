@@ -1,2 +1,2 @@
 # vscode
-This is new repository&lt;br> "Visual Studio Code "
+This is new repository <br> "Visual Studio Code "
